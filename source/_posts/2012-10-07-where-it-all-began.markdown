@@ -3,7 +3,7 @@ layout: post
 title: "Where it all began..."
 date: 2012-10-07 17:12
 comments: true
-categories: 
+categories: [other]
 ---
 
 From the day my brother and I got our first computer we were writing games, developing websites, creating computer graphics and animations.

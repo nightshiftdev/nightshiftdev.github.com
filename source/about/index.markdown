@@ -7,5 +7,10 @@ sharing: true
 footer: true
 ---
 
-Welcome to NightShiftDev.
+{% img left /images/night-shift-logo-large.png 256 256 %}
+Welcome to [nightshiftdev.github.com](http://nightshiftdev.github.com).
+Thanks for giving us a peak!
 
+Software & computers is our hobby. We try to build simple, user friendly and quality apps and games that you love.  
+
+We are NightShiftDev!
