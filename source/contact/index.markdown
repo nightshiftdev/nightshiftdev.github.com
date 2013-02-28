@@ -12,4 +12,4 @@ Or just want to say hello?
 
 Drop us a line at _nightshiftdev[at]gmail.com_ or submit the form bellow.
 
-<iframe src="https://docs.google.com/forms/d/1LXUMqsLWDsfrqROB4N3xku6fQMa18xZxLxbEHLiyv4c/viewform?embedded=true" width="320" height="640" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/1LXUMqsLWDsfrqROB4N3xku6fQMa18xZxLxbEHLiyv4c/viewform?embedded=true" width="auto" height="640" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
