@@ -35,7 +35,7 @@ Try 10 levels of StickyET for FREE!
 - - -
 
 {% img left /images/grocerypro_icon.jpg 100 100 %}
-### [GroceryPro for iOS](https://itunes.apple.com/us/app/stickyet-lite/id498962250?mt=8) 
+### [GroceryPro for iOS](https://itunes.apple.com/us/app/grocerypro-grocery-shopping/id412685195?mt=8) 
 Are you tired of typing (and retyping) names of products you purchase repeatedly? Are you a visual person who’s looking for a simple and fast shopping tool which you can customize to your favorite store?
 
 With over 170 predefined product icons and the ability to add new products with custom photo icons, creating shopping lists is a breeze with GroceryPro! Simply add a list and start tapping products to indicate the number of each item you wish to purchase. Save more time; sort your products view by assigning categories to each item; be it aisles at your grocer or shelves in your fridge, organizing your list will help you get through the store quicker and more efficiently.
