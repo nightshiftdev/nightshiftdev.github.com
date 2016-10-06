@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: other | NightShiftDev]]></title>
+  <link href="http://nightshiftdev.github.com/blog/categories/other/atom.xml" rel="self"/>
+  <link href="http://nightshiftdev.github.com/"/>
+  <updated>2016-10-06T07:11:10-05:00</updated>
+  <id>http://nightshiftdev.github.com/</id>
+  <author>
+    <name><![CDATA[nightshift]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Where it all began...]]></title>
+    <link href="http://nightshiftdev.github.com/blog/2012/10/07/where-it-all-began/"/>
+    <updated>2012-10-07T17:12:00-05:00</updated>
+    <id>http://nightshiftdev.github.com/blog/2012/10/07/where-it-all-began</id>
+    <content type="html"><![CDATA[<p>From the day my brother and I got our first computer we were writing games, developing websites, creating computer graphics and animations.</p>
+
+<p>As you can image our creations looked pretty rough as we didn't know much about computers; when we reached the time that we were to decide about what high school to choose both of us picked to go to a technical high school so we could learn more about technology and computing.</p>
+
+<p>We released our first game when we were in college. <a href="http://topgun-game.prv.pl/">Topgun Navy Strike Fighter Tactics</a> was developed for, popular at the time in Europe, <a href="http://symbian.org">Symbian OS</a> platform (most of the Nokia NOT "stupid" phones were running it). My brother prepared all the graphics, music, sounds and the game website.
+I used my coding skills and gave the soul for the game. When I look from a time perspective at Topgun, I think it was our most successful project. We had over 50k downloads and people would write us emails  telling us how much they loved playing our game that had only 5 levels.</p>
+
+<p><img src="/images/topgun.png" alt="picture alt" /></p>
+
+<p>Mobile apps development became our hobby and since the release of Topgun every year we have been trying to bring to live a small software product. Most of our "nightshift" applications end up being used only by our families and friends.</p>
+
+<p>In the next several posts we would like to share with you our apps, tell you about our upcoming apps and present technologies we use in our projects.</p>
+
+<p>I've never been very good in writing essays, so I apologize if my blogs are going to be a little bit rough...</p>
+]]></content>
+  </entry>
+  
+</feed>

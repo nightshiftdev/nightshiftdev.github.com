@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: health | NightShiftDev]]></title>
+  <link href="http://nightshiftdev.github.com/blog/categories/health/atom.xml" rel="self"/>
+  <link href="http://nightshiftdev.github.com/"/>
+  <updated>2016-10-06T07:11:10-05:00</updated>
+  <id>http://nightshiftdev.github.com/</id>
+  <author>
+    <name><![CDATA[nightshift]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[<del>"GroceryPro is back"]]></title>
+    <link href="http://nightshiftdev.github.com/blog/2015/02/19/grocerypro-is-back/"/>
+    <updated>2015-02-19T07:35:00-06:00</updated>
+    <id>http://nightshiftdev.github.com/blog/2015/02/19/grocerypro-is-back</id>
+    <content type="html"><![CDATA[<p>I am sorry to announce that the GroceryPro project have been abandoned. There is NOT going to be any further development on GroceryPro.</p>
+
+<p><del>
+New GroceryPro in development!</p>
+
+<p><del>
+We believe "you are what you eat". The food industry bombards us with artificial products, preservatives and foods based on GMOs.</p>
+
+<p><del>
+This is why we decided to start working on a new version of GroceryPro; one that will take the app to the next level!</p>
+
+<p><del>
+The new GroceryPro will take care of you and the planet, and encourage you to make healthier decisions. It is going to be about:  fast, intelligent list creation, organized shopping, healthy, balanced meals and a happy planet.</p>
+
+<p><del>
+Some of the new “technical” features will include:</p>
+
+<ul>
+<li><del>Storing lists and recipes in the cloud </li>
+<li><del>User to user list and recipe sharing</li>
+<li><del>Easy way to follow users, or rather, their meal recipes ;)</li>
+<li><del>Convenient ways to create grocery lists from recipes</li>
+</ul>
+
+
+<p><del>
+We are planning to make the application FREE (ad-based).</p>
+
+<p><del>
+If you are looking for a revolutionary, interactive shopping list, we hope the new GroceryPro will be your number one choice.</p>
+
+<p><del>
+Stay tuned for more GroceryPro dev news!</p>
+
+<p><del>
+P.S. We have 1000 beta testing spots available, so let us know if you’d like to take part in the
+development of GroceryPro. If you are interested, send us PM on <a href="https://facebook.com/GroceryProApps">facebook</a> or e-mail us at <a href="&#x6d;&#x61;&#x69;&#108;&#116;&#111;&#x3a;&#103;&#114;&#111;&#99;&#x65;&#114;&#x79;&#112;&#x72;&#111;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#x6d;">&#103;&#x72;&#x6f;&#x63;&#101;&#114;&#121;&#x70;&#114;&#111;&#64;&#x67;&#109;&#97;&#x69;&#108;&#46;&#99;&#111;&#x6d;</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

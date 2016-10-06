@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://nightshiftdev.github.com/sitemap.xml 

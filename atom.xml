@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[NightShiftDev]]></title>
+  <link href="http://nightshiftdev.github.com/atom.xml" rel="self"/>
+  <link href="http://nightshiftdev.github.com/"/>
+  <updated>2016-10-06T07:11:10-05:00</updated>
+  <id>http://nightshiftdev.github.com/</id>
+  <author>
+    <name><![CDATA[nightshift]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Stress is optional...]]></title>
+    <link href="http://nightshiftdev.github.com/blog/2016/10/04/stress-is-optional-dot-dot-dot/"/>
+    <updated>2016-10-04T07:36:00-05:00</updated>
+    <id>http://nightshiftdev.github.com/blog/2016/10/04/stress-is-optional-dot-dot-dot</id>
+    <content type="html"><![CDATA[<p><img src="http://nightshiftdev.github.com/images/breathe_icon.png" alt="picture alt" /></p>
+
+<p>The newest app from nightshiftdev &#8220;&#8230;calm&#8221; helps you to fight stress. Its purpose is to raise your awareness for stress symptoms, such as increased heart rate while not performing physical activity.</p>
+
+<p>The app uses Apple watch to monitor stress levels by listening to your heart rate while stationary.</p>
+
+<p>Start &#8220;&#8230;calm&#8221; on your watch before a meeting, interview or any other potentially stressful situation.</p>
+
+<p><img src="http://nightshiftdev.github.com/images/start.png" alt="picture alt" /></p>
+
+<p>The app will alert you with a small vibration and visual display if it detects your heart rate rising. Stop the stress monitoring session when your meeting, drive to work, or interview is over.</p>
+
+<p><img src="http://nightshiftdev.github.com/images/relaxed.png" alt="picture alt" />
+<img src="http://nightshiftdev.github.com/images/tense.png" alt="picture alt" />
+<img src="http://nightshiftdev.github.com/images/stressed.png" alt="picture alt" /></p>
+
+<p>All sessions are recorded and can be viewed on the iPhone &#8220;&#8230;calm&#8221; application.</p>
+
+<p><img src="http://nightshiftdev.github.com/images/breathe_phone.png" alt="picture alt" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[<del>&#8220;GroceryPro is back&#8221;]]></title>
+    <link href="http://nightshiftdev.github.com/blog/2015/02/19/grocerypro-is-back/"/>
+    <updated>2015-02-19T07:35:00-06:00</updated>
+    <id>http://nightshiftdev.github.com/blog/2015/02/19/grocerypro-is-back</id>
+    <content type="html"><![CDATA[<p>I am sorry to announce that the GroceryPro project have been abandoned. There is NOT going to be any further development on GroceryPro.</p>
+
+<p><del>
+New GroceryPro in development!</p>
+
+<p><del>
+We believe &#8220;you are what you eat&#8221;. The food industry bombards us with artificial products, preservatives and foods based on GMOs.</p>
+
+<p><del>
+This is why we decided to start working on a new version of GroceryPro; one that will take the app to the next level!</p>
+
+<p><del>
+The new GroceryPro will take care of you and the planet, and encourage you to make healthier decisions. It is going to be about:  fast, intelligent list creation, organized shopping, healthy, balanced meals and a happy planet.</p>
+
+<p><del>
+Some of the new “technical” features will include:</p>
+
+<ul>
+<li><del>Storing lists and recipes in the cloud </li>
+<li><del>User to user list and recipe sharing</li>
+<li><del>Easy way to follow users, or rather, their meal recipes ;)</li>
+<li><del>Convenient ways to create grocery lists from recipes</li>
+</ul>
+
+
+<p><del>
+We are planning to make the application FREE (ad-based).</p>
+
+<p><del>
+If you are looking for a revolutionary, interactive shopping list, we hope the new GroceryPro will be your number one choice.</p>
+
+<p><del>
+Stay tuned for more GroceryPro dev news!</p>
+
+<p><del>
+P.S. We have 1000 beta testing spots available, so let us know if you’d like to take part in the
+development of GroceryPro. If you are interested, send us PM on <a href="https://facebook.com/GroceryProApps">facebook</a> or e-mail us at <a href="&#x6d;&#x61;&#x69;&#108;&#116;&#111;&#58;&#x67;&#114;&#x6f;&#x63;&#x65;&#114;&#121;&#112;&#114;&#111;&#x40;&#103;&#x6d;&#97;&#x69;&#108;&#46;&#x63;&#x6f;&#109;">&#x67;&#114;&#x6f;&#99;&#x65;&#114;&#x79;&#112;&#114;&#x6f;&#64;&#x67;&#109;&#97;&#105;&#x6c;&#46;&#x63;&#x6f;&#109;</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Tunnel Juggler]]></title>
+    <link href="http://nightshiftdev.github.com/blog/2012/10/08/tunnel-juggler/"/>
+    <updated>2012-10-08T15:37:00-05:00</updated>
+    <id>http://nightshiftdev.github.com/blog/2012/10/08/tunnel-juggler</id>
+    <content type="html"><![CDATA[<p>My wife prepared an amazing surprise for us for our third wedding anniversary; she bought two tickets for the <a href="http://www.cirquedusoleil.com/">Cirque Du Soleil</a>.
+I was thrilled with the acrobatic performance and stunned by the colors in the show.</p>
+
+<p>As you might remember from my previous post: <a href="http://nightshiftdev.github.com/blog/2012/10/07/where-it-all-began/">&#8220;Where it all began&#8230;&#8221;</a> my brother and I are &#8220;nightshift&#8221; mobile game developers; so, the day after the show I called to persuade him that we needed to create an acrobatic circus-like game with changing colors, fireworks and explosions. We wanted to create a game play experience similar to the one spectators experienced in the circus show; an experience where the player would need to use speed, concentration and agile capabilities to beat the levels - similar to a juggling performance.</p>
+
+<p>We started prototyping and thinking about the game play&#8230; using convenient and quite inexpensive <a href="http://www.paperprototyping.com/">Paper Prototyping</a> technique ;-).</p>
+
+<p><img src="http://nightshiftdev.github.com/images/colage.png" alt="picture alt" /></p>
+
+<p>We decided to create a game similar to &#8220;ball brick breaker&#8221; games except ours would take place in a moving tunnel with wavy colorful walls and multiple balls that would simulate a juggling experience.</p>
+
+<p>Once we knew what we were trying to build, my brother started preparing static graphics, music and sound effects. I, on the other hand, started scratching my head trying to figure out how I would create a tunnel with constantly changing stripes and awesome colors like I saw in the <a href="http://www.cirquedusoleil.com/">Cirque Du Soleil</a> show.</p>
+
+<p><img src="http://nightshiftdev.github.com/images/KoozaCirqueduSoleil.jpg" alt="picture alt" /></p>
+
+<p><img src="http://nightshiftdev.github.com/images/Clown.jpg" alt="picture alt" /></p>
+
+<p>After &#8220;wrestling&#8221; with different ways of generating tunnels with wavy colorful walls for about a week or two I finally had the moving tunnel!</p>
+
+<p><img src="http://nightshiftdev.github.com/images/TJ_screenshot.png" alt="picture alt" /></p>
+
+<p>I don&#8217;t want to bore with technical details of the implementation here; however, if you&#8217;re interested in how to achieve this kind of effect in your game you can find an awesome step-by-step guide to a similar technique at a very popular <a href="http://www.raywenderlich.com/3888/how-to-create-a-game-like-tiny-wings-part-1">Ray Wenderlich Forum</a>. (Unfortunately, I found this after I already made my tunnel work :-( &#8230;don&#8217;t make the same mistake; don&#8217;t waste your time reinventing something that somebody already published.)</p>
+
+<p>Several months later, working evenings and weekends, we finally released <a href="https://itunes.apple.com/us/app/tunnel-juggler/id551349666?mt=8">Tunnel Juggler</a>.</p>
+
+<p>So&#8230; Ladies and Gentleman,  please welcome on the stage this evening&#8217;s entrainment, the <a href="https://itunes.apple.com/us/app/tunnel-juggler/id551349666?mt=8">Tunnel Juggler</a>. We appreciate all your feedback, ideas for improvements and critiques.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Where it all began...]]></title>
+    <link href="http://nightshiftdev.github.com/blog/2012/10/07/where-it-all-began/"/>
+    <updated>2012-10-07T17:12:00-05:00</updated>
+    <id>http://nightshiftdev.github.com/blog/2012/10/07/where-it-all-began</id>
+    <content type="html"><![CDATA[<p>From the day my brother and I got our first computer we were writing games, developing websites, creating computer graphics and animations.</p>
+
+<p>As you can image our creations looked pretty rough as we didn&#8217;t know much about computers; when we reached the time that we were to decide about what high school to choose both of us picked to go to a technical high school so we could learn more about technology and computing.</p>
+
+<p>We released our first game when we were in college. <a href="http://topgun-game.prv.pl/">Topgun Navy Strike Fighter Tactics</a> was developed for, popular at the time in Europe, <a href="http://symbian.org">Symbian OS</a> platform (most of the Nokia NOT &#8220;stupid&#8221; phones were running it). My brother prepared all the graphics, music, sounds and the game website.
+I used my coding skills and gave the soul for the game. When I look from a time perspective at Topgun, I think it was our most successful project. We had over 50k downloads and people would write us emails  telling us how much they loved playing our game that had only 5 levels.</p>
+
+<p><img src="http://nightshiftdev.github.com/images/topgun.png" alt="picture alt" /></p>
+
+<p>Mobile apps development became our hobby and since the release of Topgun every year we have been trying to bring to live a small software product. Most of our &#8220;nightshift&#8221; applications end up being used only by our families and friends.</p>
+
+<p>In the next several posts we would like to share with you our apps, tell you about our upcoming apps and present technologies we use in our projects.</p>
+
+<p>I&#8217;ve never been very good in writing essays, so I apologize if my blogs are going to be a little bit rough&#8230;</p>
+]]></content>
+  </entry>
+  
+</feed>
